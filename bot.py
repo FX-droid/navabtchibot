@@ -12,7 +12,7 @@ if today.weekday() == 5:
     exit()
 
 # ⏰ Faqat 20:00 da
-if not (now.hour == 20 and now.minute == 0):
+if not (now.hour == 20 and now.minute == 5):
     exit()
 
 # 🔁 Bugun allaqachon yuborilganmi?
